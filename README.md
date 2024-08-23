@@ -26,17 +26,17 @@ The categories include:
 
 _This section highlights the revenue generated from ATMs, MHA (Ministry of Home Affairs), and overall monthly revenue across various regions. The regions analyzed include:_
 
-    Assam
-    Punjab
-    Jammu & Kashmir
-    Manipur
-    Tripura
-    Nagaland
-    Meghalaya
-    Mizoram
-    Arunachal Pradesh
-    Ladakh
-    Sikkim
+    - Assam
+    - Punjab
+    - Jammu & Kashmir
+    - Manipur
+    - Tripura
+    - Nagaland
+    - Meghalaya
+    - Mizoram
+    - Arunachal Pradesh
+    - Ladakh
+    - Sikkim
 
 ![Untitled design(43)](https://github.com/user-attachments/assets/ce02b04a-9d9c-4492-aa95-e48c752dcc6d)
 
@@ -45,20 +45,20 @@ _This section highlights the revenue generated from ATMs, MHA (Ministry of Home 
 
 _This section compares the number of financial transactions to non-financial transactions across different months:_
 
-    March
-    December
-    August
-    November
+    - March
+    - December
+    - August
+    - November
 
 **Transactions by Date**
 
 _This line chart shows the trend of total transactions over time, specifically highlighting the months:_
 
-    March 2024
-    May 2024
-    July 2024
-    September 2024
-    November 2024
+    - March 2024
+    - May 2024
+    - July 2024
+    - September 2024
+    - November 2024
 
 ![3](https://github.com/user-attachments/assets/357e749e-a073-43a0-973f-ba820bc0a253)
 
@@ -68,7 +68,7 @@ Detailed Analysis Dashboard
 **Range Analysis (Current and Previous Month by ATM ID)**
 _This section provides an analysis of ATM performance by margin and transaction ranges for the current and previous month:_
 
-    MARGIN RANGE Current Month:
+    - MARGIN RANGE Current Month:
         0% - 5%: 29 ATMs
         10% - 15%: 40 ATMs
         15% - 20%: 49 ATMs
@@ -76,7 +76,7 @@ _This section provides an analysis of ATM performance by margin and transaction 
         25% - 30%: 75 ATMs
         Above 30%: 2137 ATMs
         Below 0%: 332 ATMs
-    TXN RANGE Previous Month:
+    - TXN RANGE Previous Month:
         100 - 125: 216 ATMs
         125 - 150: 271 ATMs
         150 - 175: 306 ATMs
@@ -87,11 +87,11 @@ _This section provides an analysis of ATM performance by margin and transaction 
 
 **Key Metrics**
 
-    Total Cost: 74M
-    Average Total Transactions (TXN): 179.19M
-    Gross Profit Percentage: 59.2%
-    Average Uptime: 93.0%
-    Average EBILL: 2.27K
+    - Total Cost: 74M
+    - Average Total Transactions (TXN): 179.19M
+    - Gross Profit Percentage: 59.2%
+    - Average Uptime: 93.0%
+    - Average EBILL: 2.27K
 
 **Detail Analysis (By State and Revenue Performance)**
 ![Untitled design(45)](https://github.com/user-attachments/assets/b371a94e-0df0-4a69-a4d7-f9a8262e334a)
